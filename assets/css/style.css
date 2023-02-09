@@ -11,17 +11,16 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
+  height: fit-content;
 }
 
 a {
-  /* color: #4fa6d5; */
-  color: green;
+  color: #4fa6d5;
   text-decoration: none;
 }
 
 a:hover {
-  /* color: #45beff; */
-  color: rgb(13, 174, 13);
+  color: #45beff;
   text-decoration: none;
 }
 
@@ -79,9 +78,9 @@ h6,
   background: #1e4356;
 }
 
-/* #header.header-transparent {
+#header.header-transparent {
   background: none;
-} */
+}
 
 #header.header-scrolled {
   background: rgba(30, 67, 86, 0.8);
@@ -112,10 +111,6 @@ h6,
 
 #main {
   margin-top: 80px;
-}
-
-.header-logo{
-  font-size: larger;
 }
 
 /*--------------------------------------------------------------

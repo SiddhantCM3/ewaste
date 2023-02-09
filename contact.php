@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
 
-<main id="main">
+  <main id="main">
 
     <!-- ======= Contact Section ======= -->
     <section class="breadcrumbs">
@@ -90,4 +90,4 @@
 
   </main><!-- End #main -->
 
-<?php include("footer.php"); ?>
+  <?php include("footer.php") ?>
