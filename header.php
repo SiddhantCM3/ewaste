@@ -48,13 +48,13 @@
           <li><a href="about.php">About</a></li>
           <li class="dropdown"><a href="corporate.php"><span>For Corporates</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">E-Waste Management</a></li>
-              <li><a href="#">Data Destruction</a></li>
-              <li><a href="#">EPR Service</a></li>
-              <li><a href="#">Reverse Logistics</a></li>
-              <li><a href="#">IT Refurbish</a></li>
-              <li><a href="#">Hazardous Waste Management</a></li>
-              <li><a href="#">Battery Waste Management</a></li>
+              <li><a href="corporate/ewaste_management.php">E-Waste Management</a></li>
+              <li><a href="corporate/data_destruction.php">Data Destruction</a></li>
+              <li><a href="corporate/epr.php">EPR Service</a></li>
+              <li><a href="corporate/reverse_logistics.php">Reverse Logistics</a></li>
+              <li><a href="corporate/it_refurbish.php">IT Refurbish</a></li>
+              <li><a href="corporate/hazard.php">Hazardous Waste Management</a></li>
+              <li><a href="corporate/battery.php">Battery Waste Management</a></li>
             </ul>
           </li>
           <li><a href="team.php">Team</a></li>
