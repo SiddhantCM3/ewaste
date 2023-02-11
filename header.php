@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Moderna Bootstrap Template - Index</title>
+  <title>E-WASTE MART</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -28,12 +28,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Moderna - v4.11.0
-  * Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -52,7 +46,17 @@
         <ul>
           <li><a class="" href="index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
-          <li><a href="services.php">Services</a></li>
+          <li class="dropdown"><a href="corporate.php"><span>For Corporates</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">E-Waste Management</a></li>
+              <li><a href="#">Data Destruction</a></li>
+              <li><a href="#">EPR Service</a></li>
+              <li><a href="#">Reverse Logistics</a></li>
+              <li><a href="#">IT Refurbish</a></li>
+              <li><a href="#">Hazardous Waste Management</a></li>
+              <li><a href="#">Battery Waste Management</a></li>
+            </ul>
+          </li>
           <li><a href="team.php">Team</a></li>
           <li><a href="contact.php">Contact Us</a></li>
         </ul>
