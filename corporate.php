@@ -162,7 +162,7 @@
   </section><!-- End Service Details Section -->
 
   <!-- ======= Pricing Section ======= -->
-  <section class="pricing section-bg" data-aos="fade-up">
+  <!--<section class="pricing section-bg" data-aos="fade-up">
     <div class="container">
 
       <div class="section-title">
@@ -216,7 +216,7 @@
       </div>
 
     </div>
-  </section><!-- End Pricing Section -->
+  </section> End Pricing Section -->
 
 </main><!-- End #main -->
 
