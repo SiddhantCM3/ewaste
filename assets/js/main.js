@@ -192,6 +192,17 @@
 
   });
 
+   /**
+   * Certificates
+   */
+
+  
+
+
+   
+
+
+
   /**
    * Initiate portfolio lightbox 
    */

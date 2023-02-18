@@ -1,19 +1,8 @@
 <?php include("header.php") ?>
 
-<!-- ======= Hero No Slider Section ======= -->
-<section id="hero-no-slider" class="d-flex justify-cntent-center align-items-center">
-    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-        <div class="row justify-content-center">
-            <div class="col-xl-8">
-                <h2>Welcome to Moderna</h2>
-                <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam.
-                    Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus
-                    deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started ">Read More</a>
-            </div>
-        </div>
-    </div>
-</section><!-- End Hero No Slider Sectio -->
+<section id="" class="it_ref-page-hero d-flex justify-content-center align-items-center">
+    <!-- <img src="assets/img/about-hero.jpeg" alt="" class="img-fluid" style=""> -->
+</section><!-- End Hero -->
 
 <!-- E-Waste Management -->
 <section class="features">
@@ -55,7 +44,7 @@
                 </p>
             </div>
             <div class="col align-self-center">
-                <img src="../assets/img/corporate/data-destruction.jpeg" class="img-fluid" alt="">
+                <img src="../assets/img/it_ref.png" class="img-fluid" alt="">
             </div>
         </div>
 </section> <!-- End E-Waste Management -->

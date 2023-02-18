@@ -1,5 +1,9 @@
 <?php include("header.php"); ?>
 
+<section id="" class="page-hero d-flex justify-cntent-center align-items-center">
+  <!-- <img src="assets/img/about-hero.jpeg" alt="" class="img-fluid" style=""> -->
+</section><!-- End Hero -->
+
 <main id="main">
 
   <!-- ======= About Us Section ======= -->
@@ -29,9 +33,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Our Mission</a></h5>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat</p>
+              <p class="card-text">At E-Waste Mart, our mission is to provide safe, sustainable, and socially responsible e-waste management services that protect the environment and maximize the recovery of valuable resources. We strive to be the trusted partner of individuals, businesses, and organizations seeking to dispose of electronic waste in a convenient, affordable, and eco-friendly way. </p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
             </div>
           </div>
@@ -43,9 +45,7 @@
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Our Plan</a></h5>
-              <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium,
-                totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta
-                sunt explicabo</p>
+              <p class="card-text"> We are committed to complying with all relevant regulations and standards, educating our customers about the importance of proper e-waste disposal, and pursuing innovative recycling and recovery methods that reduce our environmental footprint and contribute to the circular economy. Our goal is to make e-waste management easy, accessible, and sustainable for everyone, while creating a positive impact on the world we live in.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
             </div>
           </div>
@@ -62,7 +62,7 @@
 
       <div class="row">
         <div class="col-lg-6 align-self-center">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <img src="assets/img/about.jpeg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0">
           <h3>About Us</h3>

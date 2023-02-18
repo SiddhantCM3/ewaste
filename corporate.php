@@ -1,4 +1,7 @@
 <?php include("header.php"); ?>
+<section id="" class="corporate-page-hero d-flex justify-cntent-center align-items-center">
+  <!-- <img src="assets/img/about-hero.jpeg" alt="" class="img-fluid" style=""> -->
+</section><!-- End Hero -->
 
 <main id="main">
 
@@ -60,13 +63,11 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-1.jpg" alt="...">
+              <img src="assets/img/ewaste1.png" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">E-Waste Management</a></h5>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat</p>
+              <p class="card-text">E-WASTE MART specializes in the safe and responsible disposal of electronic waste (e-waste). We understand the importance of protecting the environment and human health from the toxic materials found in electronic devices.</p>
               <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
             </div>
           </div>
@@ -74,13 +75,11 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-2.jpg" alt="...">
+              <img src="assets/img/data-destruction.jpeg" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Data Destruction</a></h5>
-              <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium,
-                totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta
-                sunt explicabo</p>
+              <p class="card-text">Data destruction is an essential process for any organization that handles sensitive information. It ensures that confidential information is properly disposed of, protecting it from falling into the wrong hands.</p>
               <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
             </div>
           </div>
@@ -88,13 +87,11 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-3.jpg" alt="...">
+              <img src="assets/img/EPR.jpg" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">EPR Services</a></h5>
-              <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni
-                dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor
-                sit amet</p>
+              <p class="card-text">EPR programs aim to reduce the environmental impact of e-waste by encouraging the development of more sustainable product design, and by promoting the collection, recycling, and disposal of used electronic products.</p>
               <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
             </div>
           </div>
@@ -102,13 +99,11 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-4.jpg" alt="...">
+              <img src="assets/img/reverse_log2.jpeg" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Reverse Logistics</a></h5>
-              <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium
-                voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut
-                incidunt aut</p>
+              <p class="card-text">E-WASTE MART specializes in managing the return and disposal of products and materials for a variety of industries, including consumer goods, industrial equipment, and hazardous waste.</p>
               <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
             </div>
           </div>
@@ -116,13 +111,11 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-4.jpg" alt="...">
+              <img src="assets/img/it_ref.png" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">IT Refurbish</a></h5>
-              <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium
-                voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut
-                incidunt aut</p>
+              <p class="card-text">As an environmentally conscious organization, we believe in the importance of reusing electronics, especially in the case of computer refurbishment. Our team of skilled and trained professionals works to turn e-waste into valuable resources through our refurbishing services.</p>
               <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
             </div>
           </div>
@@ -130,13 +123,11 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-4.jpg" alt="...">
+              <img src="assets/img/hazard.jpg" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Hazardous Waste Management</a></h5>
-              <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium
-                voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut
-                incidunt aut</p>
+              <p class="card-text">Hazardous waste management is the collection, transport, treatment, and disposal of hazardous materials. This includes a wide range of materials, from chemicals and pesticides to batteries and medical waste.</p>
               <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
             </div>
           </div>
@@ -144,13 +135,11 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-4.jpg" alt="...">
+              <img src="assets/img/battery.png" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Battery Waste Management</a></h5>
-              <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium
-                voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut
-                incidunt aut</p>
+              <p class="card-text">Battery waste management is the process of safely disposing of used batteries to minimize the potential environmental and health hazards they pose.</p>
               <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
             </div>
           </div>

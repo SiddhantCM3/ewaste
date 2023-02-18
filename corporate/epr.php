@@ -1,19 +1,8 @@
 <?php include("header.php") ?>
 
-<!-- ======= Hero No Slider Section ======= -->
-<section id="hero-no-slider" class="d-flex justify-cntent-center align-items-center">
-    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-        <div class="row justify-content-center">
-            <div class="col-xl-8">
-                <h2>Welcome to Moderna</h2>
-                <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam.
-                    Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus
-                    deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started ">Read More</a>
-            </div>
-        </div>
-    </div>
-</section><!-- End Hero No Slider Sectio -->
+<section id="" class="epr-page-hero d-flex justify-content-center align-items-center">
+    <!-- <img src="assets/img/about-hero.jpeg" alt="" class="img-fluid" style=""> -->
+</section><!-- End Hero -->
 
 <!-- E-Waste Management -->
 <section class="features">
@@ -33,19 +22,19 @@
                 <h3>EPR services in the e-waste industry can include:</h3>
 
                 <ul>
-                    <li><i class="bi bi-check"></i> Collection and transportation of e-waste from consumers and businesses
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Collection and transportation of e-waste from consumers and businesses
 </li>
-                    <li><i class="bi bi-check"></i> Disassembly and recycling of electronic components
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Disassembly and recycling of electronic components
 </li>
-                    <li><i class="bi bi-check"></i> Environmental management of e-waste disposal
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Environmental management of e-waste disposal
 </li>
-                    <li><i class="bi bi-check"></i> Education and awareness raising about e-waste and its impact on the environment
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Education and awareness raising about e-waste and its impact on the environment
 </li>
-                    <li><i class="bi bi-check"></i> Research and development of more sustainable product design and disposal methods.</li>
-                    <li><i class="bi bi-check"></i> Funding of e-waste management programs
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Research and development of more sustainable product design and disposal methods.</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Funding of e-waste management programs
 
                     </li>
-                    <li><i class="bi bi-check"></i> EPR regulations vary by country, some countries have regulations in place that makes manufacturers responsible for funding the collection and recycling of their products at the end of their life, while others rely on voluntary industry initiatives.
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> EPR regulations vary by country, some countries have regulations in place that makes manufacturers responsible for funding the collection and recycling of their products at the end of their life, while others rely on voluntary industry initiatives.
 </li>
                     <!-- <li><i class="bi bi-check"></i> 8-Dispose of or treat the e-waste in an environmentally friendly
                         manner.</li>
@@ -58,7 +47,7 @@
                 </p> -->
             </div>
             <div class="col align-self-center">
-                <img src="../assets/img/corporate/data-destruction.jpeg" class="img-fluid" alt="">
+                <img src="../assets/img/EPR.jpg" class="img-fluid" alt="">
             </div>
         </div>
 </section> <!-- End E-Waste Management -->

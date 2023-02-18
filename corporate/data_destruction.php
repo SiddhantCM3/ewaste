@@ -1,19 +1,8 @@
 <?php include("header.php") ?>
 
-<!-- ======= Hero No Slider Section ======= -->
-<section id="hero-no-slider" class="d-flex justify-cntent-center align-items-center">
-    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-        <div class="row justify-content-center">
-            <div class="col-xl-8">
-                <h2>Welcome to Moderna</h2>
-                <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam.
-                    Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus
-                    deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started ">Read More</a>
-            </div>
-        </div>
-    </div>
-</section><!-- End Hero No Slider Sectio -->
+<section id="" class="dd-page-hero d-flex justify-cntent-center align-items-center">
+  <!-- <img src="assets/img/about-hero.jpeg" alt="" class="img-fluid" style=""> -->
+</section><!-- End Hero -->
 
 <!-- E-Waste Management -->
 <section class="features">
@@ -44,17 +33,17 @@
             E-WASTE MART offers a range of data destruction services including:
 
         <ul data-aos="fade-up">
-            <li><i class="bi bi-check"></i> On-site data destruction: Our team will come to your location to destroy
+            <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> On-site data destruction: Our team will come to your location to destroy
                 your data on-site, providing you
                 with peace of mind and security.</li>
-            <li><i class="bi bi-check"></i> Off-site data destruction: We'll pick up your data and transport it to our
+            <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Off-site data destruction: We'll pick up your data and transport it to our
                 secure facility for destruction.</li>
-            <li><i class="bi bi-check"></i> Hard drive destruction: We use specialized equipment to physically destroy
+            <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Hard drive destruction: We use specialized equipment to physically destroy
                 hard drives, ensuring that the
                 data stored on them can't be recovered.</li>
-            <li><i class="bi bi-check"></i> Media destruction: We also destroy CDs, DVDs, tapes, and other types of
+            <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Media destruction: We also destroy CDs, DVDs, tapes, and other types of
                 media.</li>
-            <li><i class="bi bi-check"></i> Electronic waste disposal: We provide responsible disposal of end-of-life
+            <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Electronic waste disposal: We provide responsible disposal of end-of-life
                 electronics, ensuring that any
                 data stored on them is properly destroyed.</li>
 
@@ -71,20 +60,20 @@
                 <h3>The steps of our e-waste disposal process are as follows:</h3>
 
                 <ul>
-                    <li><i class="bi bi-check"></i> Gather information about the types and quantities of e-waste along
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Gather information about the types and quantities of e-waste along
                         with their location.</li>
-                    <li><i class="bi bi-check"></i> Schedule a pickup with our call center</li>
-                    <li><i class="bi bi-check"></i> Pick up the e-waste carefully from the designated location using
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Schedule a pickup with our call center</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Pick up the e-waste carefully from the designated location using
                         appropriate tools and machines.</li>
-                    <li><i class="bi bi-check"></i> 4-Transport the e-waste to our R2-certified facility.</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> 4-Transport the e-waste to our R2-certified facility.</li>
                     <li><i class="bi bi-check"></i> 5-Sort the e-waste for assessment of its future usability and
                         potential hazards.</li>
-                    <li><i class="bi bi-check"></i> 6-Carefully dismantle the e-waste and shred it into smaller pieces.
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> 6-Carefully dismantle the e-waste and shred it into smaller pieces.
                     </li>
-                    <li><i class="bi bi-check"></i> 7-Segregate the e-waste using experienced professionals</li>
-                    <li><i class="bi bi-check"></i> 8-Dispose of or treat the e-waste in an environmentally friendly
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> 7-Segregate the e-waste using experienced professionals</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> 8-Dispose of or treat the e-waste in an environmentally friendly
                         manner.</li>
-                    <li><i class="bi bi-check"></i> 9-Offer on-site destruction services for e-waste using cutting-edge
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> 9-Offer on-site destruction services for e-waste using cutting-edge
                         technology</li>
                 </ul>
                 <p class="fst-italic">

@@ -1,19 +1,8 @@
 <?php include("header.php") ?>
 
-<!-- ======= Hero No Slider Section ======= -->
-<section id="hero-no-slider" class="d-flex justify-cntent-center align-items-center">
-    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-        <div class="row justify-content-center">
-            <div class="col-xl-8">
-                <h2>Welcome to Moderna</h2>
-                <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam.
-                    Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus
-                    deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started ">Read More</a>
-            </div>
-        </div>
-    </div>
-</section><!-- End Hero No Slider Sectio -->
+<section id="" class="ewaste_management-page-hero d-flex justify-cntent-center align-items-center">
+    <!-- <img src="assets/img/about-hero.jpeg" alt="" class="img-fluid" style=""> -->
+</section><!-- End Hero -->
 
 <!-- E-Waste Management -->
 <section class="features">
@@ -22,7 +11,9 @@
         <div class="section-title">
             <h2><strong>Corporates | </strong>E-Waste Management</h2>
         </div>
-        <p data-aos="fade-up">E-WASTE MART specializes in the safe and responsible disposal of electronic waste
+        <div class="row justify-content-center">
+            <div class="col">
+            <p data-aos="fade-up">E-WASTE MART specializes in the safe and responsible disposal of electronic waste
             (e-waste). We understand the importance of protecting the environment and human health from the toxic
             materials found in electronic devices.
             <br>
@@ -52,7 +43,13 @@
             and minimize environmental impact.
             <br>
             We are dedicated to educating the public about the impact of e-waste on the environment and providing
-            resources and information on how to properly dispose of electronic devices.
+            resources and information on how to properly dispose of electronic devices. </p>
+            </div>
+            <div class="col justify-content-center" >
+                <img src="../assets/img/corporate/ewaste_management-2.jpg" alt="" class="img-fluid p-3" data-aos="fade-up" style="height: 40vh; width: 100%;">
+                <img src="../assets/img/corporate/ewaste_management-1.jpg" alt="" class="img-fluid p-3" data-aos="fade-up" style="height: 40vh; width: 100%;">
+            </div>
+        </div>
 
         <div class="row" data-aos="fade-up">
 
@@ -60,17 +57,21 @@
                 <h3>E-waste management services can include:</h3>
 
                 <ul data-aos="fade-up">
-            <li><i class="bi bi-check"></i> Collection and transportation of e-waste from consumers and businesses</li>
-            <li><i class="bi bi-check"></i> Disassembly and recycling of electronic components</li>
-            <li><i class="bi bi-check"></i> Data destruction and secure data management</li>
-            <li><i class="bi bi-check"></i> Environmental management of e-waste disposal</li>
-            <li><i class="bi bi-check"></i> Education and awareness raising about e-waste and its impact on the environment</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Collection and transportation of e-waste from consumers and
+                        businesses</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Disassembly and recycling of electronic components</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Data destruction and secure data management</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Environmental management of e-waste disposal</li>
+                    <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Education and awareness raising about e-waste and its impact on the
+                        environment</li>
 
-        </ul>
-        <p class="fst-italic" data-aos="fade-up">Our e-waste management services can be tailored to meet each customer's specific needs. We work closely with our customers to understand their unique requirements and design customized solutions that maximize value and minimize waste.</p>
+                </ul>
+                <p class="fst-italic" data-aos="fade-up">Our e-waste management services can be tailored to meet each
+                    customer's specific needs. We work closely with our customers to understand their unique
+                    requirements and design customized solutions that maximize value and minimize waste.</p>
             </div>
             <div class="col align-self-center">
-                <img src="../assets/img/corporate/data-destruction.jpeg" class="img-fluid" alt="">
+                <img src="../assets/img/ewaste1.png" class="img-fluid" alt="">
             </div>
         </div>
 </section> <!-- End E-Waste Management -->
