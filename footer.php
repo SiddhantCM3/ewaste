@@ -8,11 +8,11 @@
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Useful Links</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Corporate</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Team</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Contact Us</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="about.php">About us</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate.php">Corporate</a></li>
+          <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Team</a></li> -->
+          <li><i class="bx bx-chevron-right"></i> <a href="contact.php">Contact Us</a></li>
           <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
         </ul>
       </div>
@@ -20,14 +20,14 @@
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Our Services</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">E-Waste Management</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Data Destruction</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">EPR Services</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Reverse Logistics</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">IT Refurbish</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Hazard Waste Management</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Battery Waste Management</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Oil Waste Management</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/ewaste_management.php">E-Waste Management</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/data_destruction.php">Data Destruction</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/epr.php">EPR Services</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/reverse_logistics.php">Reverse Logistics</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/it_refurbish.php">IT Refurbish</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/hazard.php">Hazard Waste Management</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/battery.php">Battery Waste Management</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="corporate/oil.php">Oil Waste Management</a></li>
         </ul>
       </div>
 

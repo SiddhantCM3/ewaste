@@ -196,12 +196,6 @@
    * Certificates
    */
 
-  
-
-
-   
-
-
 
   /**
    * Initiate portfolio lightbox 

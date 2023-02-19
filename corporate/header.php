@@ -56,9 +56,10 @@
               <li><a href="it_refurbish.php">IT Refurbish</a></li>
               <li><a href="hazard.php">Hazardous Waste Management</a></li>
               <li><a href="battery.php">Battery Waste Management</a></li>
+              <li><a href="oil.php">Oil Waste Management</a></li>
             </ul>
           </li>
-          <li><a href="../team.php">Team</a></li>
+          <!-- <li><a href="../team.php">Team</a></li> -->
           <li><a href="../contact.php">Contact Us</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

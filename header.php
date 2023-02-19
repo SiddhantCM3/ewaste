@@ -29,8 +29,6 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/custom.css" rel="stylesheet">
 
-  
-
 </head>
 
 <body>
@@ -58,9 +56,10 @@
               <li><a href="corporate/it_refurbish.php">IT Refurbish</a></li>
               <li><a href="corporate/hazard.php">Hazardous Waste Management</a></li>
               <li><a href="corporate/battery.php">Battery Waste Management</a></li>
+              <li><a href="corporate/oil.php">Oil Waste Management</a></li>
             </ul>
           </li>
-          <li><a href="team.php">Team</a></li>
+          <!-- <li><a href="team.php">Team</a></li> -->
           <li><a href="contact.php">Contact Us</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

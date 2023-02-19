@@ -16,32 +16,32 @@
             <p data-aos="fade-up">E-WASTE MART specializes in the safe and responsible disposal of electronic waste
             (e-waste). We understand the importance of protecting the environment and human health from the toxic
             materials found in electronic devices.
-            <br>
+            <br><br>
             We offer a full range of e-waste management services, including collection, transportation, disassembly,
             recycling, and environmentally-sound disposal of electronic devices. Our team of trained professionals has
             the expertise and equipment to handle any type of electronic waste.
-            <br>
+            <br><br>
             We are committed to reducing the environmental impact of e-waste by promoting the recycling and reuse of
             electronic devices. We also strive to conserve natural resources by recovering valuable materials from
             electronic waste.
-            <br>
+            <br><br>
             We have implemented strict processes and procedures to ensure the safety and security of data contained in
             electronic devices before recycling or disposal.
-            <br>
+            <br><br>
             We stay up-to-date with the latest e-waste regulations and guidelines to ensure compliance and minimize the
             risk of penalties.
-            <br>
+            <br><br>
 
             E-waste mart is committed to transparency, we provide detailed reports and certifications of our e-waste
             management processes to customers upon request.
-            <br>
+            <br><br>
             We offer flexible scheduling and pick-up options, to make it easy for customers to recycle their electronic
             waste.
-            <br>
+            <br><br>
             Our e-waste management services can be tailored to meet the specific needs of each customer. We work closely
             with customers to understand their unique requirements and design customized solutions that maximize value
             and minimize environmental impact.
-            <br>
+            <br><br>
             We are dedicated to educating the public about the impact of e-waste on the environment and providing
             resources and information on how to properly dispose of electronic devices. </p>
             </div>

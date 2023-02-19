@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #4fa6d5;
+  color: #0f6735;
   text-decoration: none;
 }
 
 a:hover {
-  color: #45beff;
+  color: #04993b;
   text-decoration: none;
 }
 
@@ -147,6 +147,7 @@ h6,
   color: #0f6735;
   white-space: nowrap;
   transition: 0.3s;
+  text-decoration: none;
 }
 
 .navbar a i,
@@ -395,6 +396,10 @@ h6,
   font-weight: 700;
 }
 
+#hero a {
+  text-decoration: none;
+}
+
 #hero p {
   width: 80%;
   -webkit-animation-delay: 0.4s;
@@ -482,6 +487,7 @@ h6,
     height: 95%;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
+    background-size: 140vw 100vh;
   }
 
   #hero::before {
@@ -1040,12 +1046,15 @@ section {
   background-color: #ececec;
   border-radius: 10%;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  margin: 5vh;
+  margin: auto;
+  height: fit-content;
+  width: fit-content;
 }
 
-.certificate-bg img {
-  height: 88vh;
+.certificate .carousel-item {
+  padding: 10vh;
 }
+
 
 
 /* display: flex;
@@ -1184,6 +1193,8 @@ section {
 .service-details .card-title a {
   color: #1e4356;
   transition: 0.3s;
+  text-decoration: none;
+  color: #0f6735;
 }
 
 .service-details .card-text {
@@ -1199,7 +1210,7 @@ section {
 }
 
 .service-details .read-more a:hover {
-  color: #68A4C4;
+  color: #04993b;
 }
 
 .service-details .card:hover img {
@@ -2327,6 +2338,7 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
+  text-decoration: none;
 }
 
 #footer .footer-top .social-links a:hover {
@@ -2375,10 +2387,11 @@ section {
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
+  text-decoration: none;
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #a2cce3;
+  color: #93c120;
 }
 
 #footer .footer-top .footer-contact {

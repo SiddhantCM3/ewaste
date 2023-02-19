@@ -22,7 +22,7 @@
                     electronics, especially in the case of computer refurbishment. Our team of skilled and trained
                     professionals works to turn e-waste into valuable resources through our refurbishing services.
 
-                    <br>
+                    <br><br>
                     Our refurbishment services offer a wide range of benefits for society, the economy, public health,
                     and the environment. We follow the principles of sustainable recycling by reducing, reusing, and
                     recycling electronic devices. Our team will assess and repair used electronic equipment, giving them
@@ -30,12 +30,12 @@
                     waste and we use only the highest-quality spare parts to bring these devices back to working
                     condition.
 
-                    <br>
+                    <br><br>
                     After the refurbishment process, each device goes through a rigorous quality control inspection by
                     our qualified technicians. Only those that pass our strict standards are made available for purchase
                     on our online portal.
 
-                    <br>
+                    <br><br>
                     One of the most significant advantages of buying refurbished electronics is cost savings. Our
                     refurbished products are available at a fraction of the cost of brand-new devices, typically 70-80%
                     less.

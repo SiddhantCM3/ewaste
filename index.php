@@ -9,7 +9,7 @@
       <div class="carousel-container">
         <h2 class="animate__animated animate__fadeInDown">Make the Right Choice With <span>E-Waste Mart</span></h2>
         <p class="animate__animated animate__fadeInUp"> Properly Dispose of your E-Waste with <strong>E-Waste Mart</strong> </p>
-        <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+        <a href="#main" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
       </div>
     </div>
 
@@ -18,7 +18,7 @@
       <div class="carousel-container">
         <h2 class="animate__animated animate__fadeInDown"> Recycling for a <span>Greener</span> Future</h2>
         <p class="animate__animated animate__fadeInUp">Trust <strong>E-Waste Mart</strong> for Responsible E-Waste Disposal </p>
-        <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+        <a href="#main" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
       </div>
     </div>
 
@@ -27,7 +27,7 @@
       <div class="carousel-container">
         <h2 class="animate__animated animate__fadeInDown"><span>Responsible</span> Electronics Disposal</h2>
         <p class="animate__animated animate__fadeInUp">Secure E-Waste Management Solutions with <strong>E-Waste Mart</strong></p>
-        <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+        <a href="#main" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
       </div>
     </div>
 
@@ -58,7 +58,7 @@
         </div>
         <div class="col-md-7 pt-5 order-1 order-md-2 align-self-center">
           <!-- <h3>Who Are We ?</h3> -->
-          <p class="description">
+          <p class="description mb-3">
             E-WASTE MART is a group of companies established in 2017 to address the growing problem of e-waste in India
             while adhering to strict environmental management standards. We are authorized by the Central Pollution
             Control Board, Ministry of Environment, Forest and Climate Change, Govt. of India to dismantle, recycle, and
@@ -91,7 +91,7 @@
               We offer a full range of e-waste management services, including collection, transportation, disassembly,
               recycling, and environmentally-sound disposal of electronic devices...</p>
             <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-            <button class= "read-btn sticky-bottom">Read More</button>
+            <a href="corporate/ewaste_management.php"> <button class= "read-btn sticky-bottom" >Read More</button></a>
           </div>
         </div>
 
@@ -105,7 +105,7 @@
               more important than ever to have a robust data destruction plan.
               With the rise of data breaches and cyber attacks, it's more one two three ...</p>
             <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-            <button class= "read-btn">Read More</button>
+            <a href="corporate/data_destruction.php"><button class= "read-btn" >Read More</button></a>
           </div>
         </div>
 
@@ -120,7 +120,7 @@
               recycling , and disposal of used electronic products. </p>
               
             <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-            <button class= "read-btn">Read More</button>
+            <a href="corporate/epr.php"><button class= "read-btn" >Read More</button> </a>
           </div>
         </div>
 
@@ -133,9 +133,9 @@
               waste.
               We offer a full range of reverse logistics services , including refurbishment , recycling , and disposal. Our
               team of experienced professionals has the expertise and equipment to handle any type of product or
-              material.</p><br>
+              material. Our reverse logistics services</p>
             <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-            <button class= "read-btn">Read More</button>
+            <a href="corporate/reverse_logistics.php"><button class= "read-btn" >Read More</button></a>
           </div>
         </div>
 
@@ -204,7 +204,7 @@
   
 
   <!-- Certificate Section -->
-  <section class="certificate" data-aos="fade-up">
+<section class="certificate" data-aos="fade-up">
     <div class="container">
 
       <div class="section-title">
@@ -215,26 +215,42 @@
       <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item  active">
-            <div class="certificate-bg" style="">
+            <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_1-01.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_2-01.png" alt="" class="img-fluid">
             </div>
           </div>
           <div class="carousel-item">
-            <div class="certificate-bg" style="">
+            <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_3-01.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_4-01.png" alt="" class="img-fluid">
             </div>
           </div>
           <div class="carousel-item">
-           <div class="certificate-bg" style="">
+           <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_5-01.png" alt="" class="img-fluid">
+            </div> 
+          </div>
+          <div class="carousel-item">
+           <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_6-01.png" alt="" class="img-fluid">
             </div> 
           </div>
           <div class="carousel-item">
-           <div class="certificate-bg" style="">
+           <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_7-01.png" alt="" class="img-fluid">
+            </div> 
+          </div>
+          <div class="carousel-item">
+           <div class="certificate-bg d-flex justify-content-center align-items-center" style="">
               <img src="assets/img/certificates/Certificate_8-01.png" alt="" class="img-fluid">
             </div> 
           </div>
@@ -254,7 +270,9 @@
 
 
     </div>
-  </section>
+  </section> 
+
+
 
   <!-- Clientele Section -->
   <section class="certificate" data-aos="fade-up">
@@ -265,8 +283,6 @@
       </div>
 
       <img src="assets/img/clientele.png" alt="" class="img-fluid">
-
-
 
     </div>
   </section>

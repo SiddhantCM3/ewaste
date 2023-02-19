@@ -12,8 +12,6 @@
             <h2><strong>Corporates | </strong>EPR Services</h2>
         </div>
         <p data-aos="fade-up">In the e-waste industry, EPR (Extended Producer Responsibility) services refer to the responsibility of manufacturers, importers, and distributors of electronic products to manage the end-of-life disposal of those products. EPR programs aim to reduce the environmental impact of e-waste by encouraging the development of more sustainable product design, and by promoting the collection, recycling, and disposal of used electronic products.
-
-
         </p>
 
         <div class="row" data-aos="fade-up">

@@ -15,21 +15,21 @@
             information. It ensures that confidential information is properly disposed of, protecting it from falling
             into the wrong hands. With the increasing amount of data being generated and stored, it's more important
             than ever to have a robust data destruction plan.
-            <br>
+            <br><br>
             With the rise of data breaches and cyber attacks, it's more important than ever to ensure that sensitive
             information is properly disposed of. Our data destruction services are designed to help organizations
             securely and permanently destroy sensitive information. E-WASTE MART understands the importance of
             protecting your company's confidential data and that's why we take every step to ensure that our data
             destruction services meet the highest industry standards.
-            <br>
+            <br><br>
             Our team of experts uses state-of-the-art technology, such as specialized shredders, degaussers and
             crushers, to ensure that all data is completely erased, making it impossible to recover. We also provide
             secure and responsible disposal of end-of-life electronics.
-            <br>
+            <br><br>
             In addition to providing data destruction services, we also provide consulting services to help
             organizations develop and implement data destruction policies and procedures. This includes training your
             employees on best practices for data destruction and providing guidance on compliance requirements.
-            <br>
+            <br><br>
             E-WASTE MART offers a range of data destruction services including:
 
         <ul data-aos="fade-up">

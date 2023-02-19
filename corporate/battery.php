@@ -20,11 +20,11 @@
                 <h3>The steps of our e-waste disposal process are as follows:</h3>
 
                 <ul>
-                <li><i class="bi bi-check"></i> Collection</li>
-                <li><i class="bi bi-check"></i> Transportation</li>
-                <li><i class="bi bi-check"></i> Segregation</li>
-                <li><i class="bi bi-check"></i> Recycling</li>
-                <li><i class="bi bi-check"></i> Disposal</li>
+                <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Collection</li>
+                <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Transportation</li>
+                <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Segregation</li>
+                <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Recycling</li>
+                <li><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh"> Disposal</li>
                 </ul>
 
 

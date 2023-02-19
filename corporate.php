@@ -31,10 +31,10 @@
               <img src="assets/img/ewaste1.png" alt="...">
             </div>
             <div class="card-body">
-              <h5 class="card-title"><a href="#">E-Waste Management</a></h5>
+              <h5 class="card-title"><a href="corporate/ewaste_management.php">E-Waste Management</a></h5>
               <p class="card-text">E-WASTE MART specializes in the safe and responsible disposal of electronic waste (e-waste). We understand the importance of protecting the environment and human health from the toxic materials found in electronic devices.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/ewaste_management.php"> <button class= "read-btn sticky-bottom" >Read More</button></a>
             </div>
           </div>
         </div>
@@ -44,10 +44,10 @@
               <img src="assets/img/data-destruction.jpeg" alt="...">
             </div>
             <div class="card-body">
-              <h5 class="card-title"><a href="#">Data Destruction</a></h5>
+              <h5 class="card-title"><a href="corporate/data_destruction.php">Data Destruction</a></h5>
               <p class="card-text">Data destruction is an essential process for any organization that handles sensitive information. It ensures that confidential information is properly disposed of, protecting it from falling into the wrong hands.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/data_destruction.php"><button class= "read-btn" >Read More</button></a>
             </div>
           </div>
         </div>
@@ -57,10 +57,10 @@
               <img src="assets/img/EPR.jpg" alt="...">
             </div>
             <div class="card-body">
-              <h5 class="card-title"><a href="#">EPR Services</a></h5>
+              <h5 class="card-title"><a href="corporate/epr.php">EPR Services</a></h5>
               <p class="card-text">EPR programs aim to reduce the environmental impact of e-waste by encouraging the development of more sustainable product design, and by promoting the collection, recycling, and disposal of used electronic products.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/epr.php"><button class= "read-btn" >Read More</button> </a>
             </div>
           </div>
         </div>
@@ -70,10 +70,10 @@
               <img src="assets/img/reverse_log2.jpeg" alt="...">
             </div>
             <div class="card-body">
-              <h5 class="card-title"><a href="#">Reverse Logistics</a></h5>
+              <h5 class="card-title"><a href="corporate/reverse_logostics.php">Reverse Logistics</a></h5>
               <p class="card-text">E-WASTE MART specializes in managing the return and disposal of products and materials for a variety of industries, including consumer goods, industrial equipment, and hazardous waste.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/reverse_logostics.php"><button class= "read-btn" >Read More</button></a>
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@
               <h5 class="card-title"><a href="#">IT Refurbish</a></h5>
               <p class="card-text">As an environmentally conscious organization, we believe in the importance of reusing electronics, especially in the case of computer refurbishment. Our team of skilled and trained professionals works to turn e-waste into valuable resources through our refurbishing services.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/it_refurbish.php"><button class= "read-btn" >Read More</button></a>
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@
               <h5 class="card-title"><a href="#">Hazardous Waste Management</a></h5>
               <p class="card-text">Hazardous waste management is the collection, transport, treatment, and disposal of hazardous materials. This includes a wide range of materials, from chemicals and pesticides to batteries and medical waste.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/hazard.php"><button class= "read-btn" >Read More</button></a>
             </div>
           </div>
         </div>
@@ -112,7 +112,7 @@
               <h5 class="card-title"><a href="#">Battery Waste Management</a></h5>
               <p class="card-text">Battery waste management is the process of safely disposing of used batteries to minimize the potential environmental and health hazards they pose.</p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/battery.php"><button class= "read-btn" >Read More</button></a>
             </div>
           </div>
         </div>
@@ -123,9 +123,9 @@
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Oil Waste Management</a></h5>
-              <p class="card-text">Battery waste management is the process of safely disposing of used batteries to minimize the potential environmental and health hazards they pose.</p>
+              <p class="card-text">Oil waste management refers to the process of handling, treating, and disposing of oil waste in an environmentally responsible manner. Oil waste can come </p>
               <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
-              <button class= "read-btn">Read More</button>
+              <a href="corporate/oil.php"><button class= "read-btn" >Read More</button></a>
             </div>
           </div>
         </div>
