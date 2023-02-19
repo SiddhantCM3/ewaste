@@ -5,55 +5,20 @@
 
 <main id="main">
 
-  <!-- ======= Services Section ======= -->
-  <!--<section class="services">
+  <!-- ======= About Us Section ======= -->
+  <section class="breadcrumbs">
     <div class="container">
 
-      <div class="row">
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/ewaste_management.png" alt="" class="img-fluid"></div>
-            <h4 class="title"><a href="">E-Waste Management</a></h4>
-            <p class="description text-start">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
-              occaecati cupiditate non provident</p>
-              <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/data_destruction.png" alt="" class="img-fluid"></i></div>
-            <h4 class="title"><a href="">Data Destruction</a></h4>
-            <p class="description text-start">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-              fugiat nulla pariatur</p>
-              <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/epr.png" alt="" class="img-fluid"></div>
-            <h4 class="title"><a href="">EPR Services</a></h4>
-            <p class="description text-start">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-              fugiat nulla pariatur</p>
-              <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/reverse_logistics.png" alt="" class="img-fluid"></div>
-            <h4 class="title"><a href="">Reverse Logistics</a></h4>
-            <p class="description text-start">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-              fugiat nulla pariatur</p>
-              <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
+      <div class="d-flex justify-content-between align-items-center">
+        <h2>For Corporates</h2>
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li>For Corporates</li>
+        </ol>
       </div>
 
     </div>
-  </section> End Services Section -->
+  </section><!-- End About Us Section -->
 
   <!-- ======= Service Details Section ======= -->
   <section class="service-details">
@@ -68,7 +33,8 @@
             <div class="card-body">
               <h5 class="card-title"><a href="#">E-Waste Management</a></h5>
               <p class="card-text">E-WASTE MART specializes in the safe and responsible disposal of electronic waste (e-waste). We understand the importance of protecting the environment and human health from the toxic materials found in electronic devices.</p>
-              <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
             </div>
           </div>
         </div>
@@ -80,7 +46,8 @@
             <div class="card-body">
               <h5 class="card-title"><a href="#">Data Destruction</a></h5>
               <p class="card-text">Data destruction is an essential process for any organization that handles sensitive information. It ensures that confidential information is properly disposed of, protecting it from falling into the wrong hands.</p>
-              <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
             </div>
           </div>
         </div>
@@ -92,7 +59,8 @@
             <div class="card-body">
               <h5 class="card-title"><a href="#">EPR Services</a></h5>
               <p class="card-text">EPR programs aim to reduce the environmental impact of e-waste by encouraging the development of more sustainable product design, and by promoting the collection, recycling, and disposal of used electronic products.</p>
-              <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
             </div>
           </div>
         </div>
@@ -104,7 +72,8 @@
             <div class="card-body">
               <h5 class="card-title"><a href="#">Reverse Logistics</a></h5>
               <p class="card-text">E-WASTE MART specializes in managing the return and disposal of products and materials for a variety of industries, including consumer goods, industrial equipment, and hazardous waste.</p>
-              <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
             </div>
           </div>
         </div>
@@ -116,7 +85,8 @@
             <div class="card-body">
               <h5 class="card-title"><a href="#">IT Refurbish</a></h5>
               <p class="card-text">As an environmentally conscious organization, we believe in the importance of reusing electronics, especially in the case of computer refurbishment. Our team of skilled and trained professionals works to turn e-waste into valuable resources through our refurbishing services.</p>
-              <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
             </div>
           </div>
         </div>
@@ -128,7 +98,8 @@
             <div class="card-body">
               <h5 class="card-title"><a href="#">Hazardous Waste Management</a></h5>
               <p class="card-text">Hazardous waste management is the collection, transport, treatment, and disposal of hazardous materials. This includes a wide range of materials, from chemicals and pesticides to batteries and medical waste.</p>
-              <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
             </div>
           </div>
         </div>
@@ -140,7 +111,21 @@
             <div class="card-body">
               <h5 class="card-title"><a href="#">Battery Waste Management</a></h5>
               <p class="card-text">Battery waste management is the process of safely disposing of used batteries to minimize the potential environmental and health hazards they pose.</p>
-              <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+          <div class="card">
+            <div class="card-img">
+              <img src="assets/img/oil.jpg" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href="#">Oil Waste Management</a></h5>
+              <p class="card-text">Battery waste management is the process of safely disposing of used batteries to minimize the potential environmental and health hazards they pose.</p>
+              <!-- <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+              <button class= "read-btn">Read More</button>
             </div>
           </div>
         </div>

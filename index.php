@@ -7,10 +7,8 @@
     <!-- Slide 1 -->
     <div class="carousel-item active">
       <div class="carousel-container">
-        <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Moderna</span></h2>
-        <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et
-          est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse
-          doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+        <h2 class="animate__animated animate__fadeInDown">Make the Right Choice With <span>E-Waste Mart</span></h2>
+        <p class="animate__animated animate__fadeInUp"> Properly Dispose of your E-Waste with <strong>E-Waste Mart</strong> </p>
         <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
       </div>
     </div>
@@ -18,10 +16,8 @@
     <!-- Slide 2 -->
     <div class="carousel-item">
       <div class="carousel-container">
-        <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-        <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et
-          est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse
-          doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+        <h2 class="animate__animated animate__fadeInDown"> Recycling for a <span>Greener</span> Future</h2>
+        <p class="animate__animated animate__fadeInUp">Trust <strong>E-Waste Mart</strong> for Responsible E-Waste Disposal </p>
         <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
       </div>
     </div>
@@ -29,10 +25,8 @@
     <!-- Slide 3 -->
     <div class="carousel-item">
       <div class="carousel-container">
-        <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-        <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et
-          est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse
-          doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+        <h2 class="animate__animated animate__fadeInDown"><span>Responsible</span> Electronics Disposal</h2>
+        <p class="animate__animated animate__fadeInUp">Secure E-Waste Management Solutions with <strong>E-Waste Mart</strong></p>
         <a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
       </div>
     </div>
@@ -81,6 +75,74 @@
 
     </div>
   </section><!-- End Introduction Section -->
+
+  <!-- ======= Services Section ======= -->
+  <section class="services">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
+          <div class="icon-box">
+            <div class="icon"><img src="assets/img/icons/ewaste_management.png" alt="" class="img-fluid"></div>
+            <h4 class="title"><a href="">E-Waste Management</a></h4>
+            <p class="description text-start">E-WASTE MART specializes in the safe and responsible disposal of
+              electronic waste (e-waste). We understand the importance of protecting the environment and human health
+              from the toxic materials found in electronic devices.
+              We offer a full range of e-waste management services, including collection, transportation, disassembly,
+              recycling, and environmentally-sound disposal of electronic devices...</p>
+            <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+            <button class= "read-btn sticky-bottom">Read More</button>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="icon-box">
+            <div class="icon"><img src="assets/img/icons/data_destruction.png" alt="" class="img-fluid"></i></div>
+            <h4 class="title"><a href="">Data Destruction</a></h4>
+            <p class="description text-start">Data destruction is an essential process for any organization that handles
+              sensitive information. It ensures that confidential information is properly disposed of, protecting it
+              from falling into the wrong hands. With the increasing amount of data being generated and stored, it's
+              more important than ever to have a robust data destruction plan.
+              With the rise of data breaches and cyber attacks, it's more one two three ...</p>
+            <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+            <button class= "read-btn">Read More</button>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="icon-box">
+            <div class="icon"><img src="assets/img/icons/epr.png" alt="" class="img-fluid"></div>
+            <h4 class="title"><a href="">EPR Services</a></h4>
+            <p class="description text-start">In the e-waste industry , EPR (Extended Producer Responsibility) services
+              refer to the responsibility of manufacturers , importers , and distributors of electronic products to manage
+              the end-of-life disposal of those products. EPR programs aim to reduce the environmental impact of e-waste
+              by encouraging the development of more sustainable product design, and by promoting the collection ,
+              recycling , and disposal of used electronic products. </p>
+              
+            <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+            <button class= "read-btn">Read More</button>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="icon-box">
+            <div class="icon"><img src="assets/img/icons/reverse_logistics.png" alt="" class="img-fluid"></div>
+            <h4 class="title"><a href="">Reverse Logistics</a></h4>
+            <p class="description text-start">E-WASTE MART specializes in managing the return and disposal of products
+              and materials for a variety of industries , including consumer goods , industrial equipment , and hazardous
+              waste.
+              We offer a full range of reverse logistics services , including refurbishment , recycling , and disposal. Our
+              team of experienced professionals has the expertise and equipment to handle any type of product or
+              material.</p><br>
+            <!-- <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div> -->
+            <button class= "read-btn">Read More</button>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Services Section -->
 
   <!-- Ewaste Process -->
   <section class="features">
@@ -139,68 +201,7 @@
   </section> <!-- End Ewaste Process -->
 
 
-  <!-- ======= Services Section ======= -->
-  <section class="services">
-    <div class="container">
-
-      <div class="row">
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/ewaste_management.png" alt="" class="img-fluid"></div>
-            <h4 class="title"><a href="">E-Waste Management</a></h4>
-            <p class="description text-start">E-WASTE MART specializes in the safe and responsible disposal of
-              electronic waste (e-waste). We understand the importance of protecting the environment and human health
-              from the toxic materials found in electronic devices.
-              We offer a full range of e-waste management services, including collection, transportation, disassembly,
-              recycling, and environmentally-sound disposal of electronic devices...</p>
-            <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/data_destruction.png" alt="" class="img-fluid"></i></div>
-            <h4 class="title"><a href="">Data Destruction</a></h4>
-            <p class="description text-start">Data destruction is an essential process for any organization that handles
-              sensitive information. It ensures that confidential information is properly disposed of, protecting it
-              from falling into the wrong hands. With the increasing amount of data being generated and stored, it's
-              more important than ever to have a robust data destruction plan.
-              With the rise of data breaches and cyber attacks, it's more ...</p>
-            <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/epr.png" alt="" class="img-fluid"></div>
-            <h4 class="title"><a href="">EPR Services</a></h4>
-            <p class="description text-start">In the e-waste industry, EPR (Extended Producer Responsibility) services
-              refer to the responsibility of manufacturers, importers, and distributors of electronic products to manage
-              the end-of-life disposal of those products. EPR programs aim to reduce the environmental impact of e-waste
-              by encouraging the development of more sustainable product design, and by promoting the collection,
-              recycling, and disposal of used electronic products.</p>
-            <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-          <div class="icon-box">
-            <div class="icon"><img src="assets/img/icons/reverse_logistics.png" alt="" class="img-fluid"></div>
-            <h4 class="title"><a href="">Reverse Logistics</a></h4>
-            <p class="description text-start">E-WASTE MART specializes in managing the return and disposal of products
-              and materials for a variety of industries, including consumer goods, industrial equipment, and hazardous
-              waste.
-              We offer a full range of reverse logistics services, including refurbishment, recycling, and disposal. Our
-              team of experienced professionals has the expertise and equipment to handle any type of product or
-              material.</p>
-            <div class="read-more text-start"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </section><!-- End Services Section -->
+  
 
   <!-- Certificate Section -->
   <section class="certificate" data-aos="fade-up">
@@ -260,7 +261,7 @@
     <div class="container-fluid">
 
       <div class="section-title">
-        <h2>Clientele</h2>
+        <h2>Our Clientele</h2>
       </div>
 
       <img src="assets/img/clientele.png" alt="" class="img-fluid">
@@ -273,7 +274,7 @@
   <!-- Clientele Section -->
 
   <!-- ======= Tetstimonials Section ======= -->
-  <section class="testimonials" data-aos="fade-up">
+  <!--<section class="testimonials" data-aos="fade-up">
     <div class="container">
 
       <div class="section-title">
@@ -347,7 +348,7 @@
       </div>
 
     </div>
-  </section><!-- End Ttstimonials Section -->
+  </section> End Ttstimonials Section -->
 
 </main><!-- End #main -->
 

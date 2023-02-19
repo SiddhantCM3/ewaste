@@ -10,20 +10,24 @@
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Corporate</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Team</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Contact Us</a></li>
+          <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
         </ul>
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Our Services</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">E-Waste Management</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Data Destruction</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">EPR Services</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Reverse Logistics</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">IT Refurbish</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Hazard Waste Management</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Battery Waste Management</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Oil Waste Management</a></li>
         </ul>
       </div>
 
@@ -40,12 +44,12 @@
       </div>
 
       <div class="col-lg-3 col-md-6 footer-info">
-        <h3>About Moderna</h3>
-        <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+        <h3>About E-Waste Mart</h3>
+        <p>E-WASTE MART is a group of companies established in 2017 to address the growing problem of e-waste in India while adhering to strict environmental management standards. We are authorized by the Central Pollution Control Board, Ministry of Environment, Forest and Climate Change, Govt. of India to dismantle, recycle, and handle hazardous e-waste in a scientifically sound manner. </p>
         <div class="social-links mt-3">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
           <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>

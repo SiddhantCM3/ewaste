@@ -613,7 +613,7 @@
 /* Ewaste Management */
 .ewaste_management-page-hero{
     width: 100%;
-  height: 90vh;
+  height: 100vh;
   overflow: hidden;
   position: relative;
 }
@@ -780,7 +780,7 @@
     width: 130%;
     height: 95%;
     background: url("../img/corporate/epr-hero.jpg")right center no-repeat;
-    background-size: cover;
+    background-size: 115vw 85vh;
     z-index: 0;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
@@ -891,6 +891,9 @@
       border-radius: 0 0 50% 50%;
       transform: translateX(-50%) translateY(20px) rotate(4deg);
     }
+    .epr-page-hero::after {
+      background-size: 150vw 85vh;
+    }
   }
   
   @media (max-width: 575px) {
@@ -934,7 +937,7 @@
     width: 130%;
     height: 95%;
     background: url("../img/corporate/reverse_log-hero.jpg")right center no-repeat;
-    background-size: cover;
+    background-size: 115vw 90vh;
     z-index: 0;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
@@ -1036,6 +1039,7 @@
       height: 95%;
       border-radius: 0 0 50% 50%;
       transform: translateX(-50%) rotate(0deg);
+      background-size: 140vw 90vh;
     }
   
     .reverse_log-page-hero::before {
@@ -1088,7 +1092,7 @@
     width: 130%;
     height: 95%;
     background: url("../img/corporate/it_ref-hero.jpeg")right center no-repeat;
-    background-size: cover;
+    background-size: 115vw 86vh;
     z-index: 0;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
@@ -1190,6 +1194,7 @@
       height: 95%;
       border-radius: 0 0 50% 50%;
       transform: translateX(-50%) rotate(0deg);
+      background-size: 140vw 86vh;
     }
   
     .it_ref-page-hero::before {
@@ -1242,7 +1247,7 @@
     width: 130%;
     height: 95%;
     background: url("../img/corporate/hazard-hero.jpg")right center no-repeat;
-    background-size: cover;
+    background-size: 125vw 87vh;
     z-index: 0;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
@@ -1344,6 +1349,7 @@
       height: 95%;
       border-radius: 0 0 50% 50%;
       transform: translateX(-50%) rotate(0deg);
+      background-size: 140vw 87vh;
     }
   
     .hazard-page-hero::before {
@@ -1396,7 +1402,7 @@
     width: 130%;
     height: 95%;
     background: url("../img/corporate/battery-hero.jpeg")right center no-repeat;
-    background-size: cover;
+    background-size: 125vw 100vh;
     z-index: 0;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) rotate(0deg);
@@ -1498,6 +1504,7 @@
       height: 95%;
       border-radius: 0 0 50% 50%;
       transform: translateX(-50%) rotate(0deg);
+      background-size: 140vw 100vh;
     }
   
     .battery-page-hero::before {

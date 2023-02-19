@@ -29,7 +29,7 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-1.jpg" alt="...">
+              <img src="assets/img/mission.jpg" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Our Mission</a></h5>
@@ -41,7 +41,7 @@
         <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
           <div class="card">
             <div class="card-img">
-              <img src="assets/img/service-details-2.jpg" alt="...">
+              <img src="assets/img/plan.jpg" alt="...">
             </div>
             <div class="card-body">
               <h5 class="card-title"><a href="#">Our Plan</a></h5>

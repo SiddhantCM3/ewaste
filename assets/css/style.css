@@ -143,8 +143,8 @@ h6,
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-family: "Open Sans", sans-serif;
-  font-size: 14px;
-  color: black;
+  font-size: 1.2rem;
+  color: #0f6735;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -160,7 +160,7 @@ h6,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #a2cce3;
+  color: #04993b  ;
 }
 
 .navbar .dropdown ul {
@@ -184,9 +184,9 @@ h6,
 
 .navbar .dropdown ul a {
   padding: 10px 20px;
-  font-size: 14px;
+  font-size: 1rem;
   text-transform: none;
-  color: #1c3745;
+  color: #0f6735;
 }
 
 .navbar .dropdown ul a i {
@@ -196,7 +196,7 @@ h6,
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #68A4C4;
+  color: #04993b;
 }
 
 .navbar .dropdown:hover>ul {
@@ -232,7 +232,7 @@ h6,
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: #0f6735;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -283,14 +283,14 @@ h6,
 .navbar-mobile a,
 .navbar-mobile a:focus {
   padding: 10px 20px;
-  font-size: 15px;
-  color: #1e4356;
+  font-size: 1.2rem;
+  color: #0f6735;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #68A4C4;
+  color: #0f6735;
 }
 
 .navbar-mobile .getstarted,
@@ -316,6 +316,8 @@ h6,
 
 .navbar-mobile .dropdown ul a {
   padding: 10px 20px;
+  font-size: 1rem;
+  color: #0f6735;
 }
 
 .navbar-mobile .dropdown ul a i {
@@ -325,7 +327,7 @@ h6,
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #68A4C4;
+  color: #0f6735;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -337,7 +339,7 @@ h6,
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   overflow: hidden;
   position: relative;
 }
@@ -349,8 +351,8 @@ h6,
   top: 0;
   width: 130%;
   height: 95%;
-  background: url("../img/ewaste_lightbulb.jpg")left center no-repeat;
-  background-size: cover;
+  background: url("../img/ewaste_lightbulb.jpg") center no-repeat;
+  background-size: 100vw 110vh;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
@@ -382,6 +384,10 @@ h6,
   right: 0;
 }
 
+.carousel-item span{
+  color: #0f6735;
+}
+
 #hero h2 {
   color: black;
   margin-bottom: 30px;
@@ -395,6 +401,7 @@ h6,
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
   color: black;
+  font-size: 1.2rem;
 }
 
 #hero .carousel-control-prev,
@@ -625,10 +632,18 @@ section {
   padding-left: 10px;
 }
 
+.breadcrumbs ol li a{
+  color: #0f6735;
+  font-weight: bold;
+}
+.breadcrumbs ol li a:hover{
+  color: #04993b;
+}
+
 .breadcrumbs ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #6c757d;
+  color: #04993b;
   content: "/";
 }
 
@@ -1197,6 +1212,16 @@ section {
 
 .service-details .card:hover .card-body .card-title a {
   color: #04993b;
+}
+
+.read-btn{
+  background-color: #0f6735;
+  color: white;
+  margin-top: 10px;
+}
+.read-btn:hover{
+  background-color: #04993b;
+  color: white;
 }
 
 /*--------------------------------------------------------------
@@ -2277,7 +2302,7 @@ section {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  color: #a2cce3;
+  color: white;
   font-weight: 600;
 }
 
@@ -2305,7 +2330,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #68A4C4;
+  background: #93c120;
   color: #fff;
   text-decoration: none;
 }
@@ -2313,7 +2338,7 @@ section {
 #footer .footer-top h4 {
   font-size: 18px;
   font-weight: 600;
-  color: #a2cce3;
+  color: white;
   position: relative;
   padding-bottom: 12px;
 }
@@ -2330,7 +2355,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #a2cce3;
+  color: white;
   font-size: 18px;
   line-height: 1;
 }
