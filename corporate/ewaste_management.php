@@ -12,7 +12,7 @@
             <h2><strong>Corporates | </strong>E-Waste Management</h2>
         </div>
         <div class="row justify-content-center">
-            <div class="col">
+            <div class="col-lg-6 col-md-12">
             <p data-aos="fade-up">E-WASTE MART specializes in the safe and responsible disposal of electronic waste
             (e-waste). We understand the importance of protecting the environment and human health from the toxic
             materials found in electronic devices.
@@ -53,7 +53,7 @@
 
         <div class="row" data-aos="fade-up">
 
-            <div class="col align-self-center pt-4">
+            <div class="col-lg-6 col-md-12 align-self-center pt-4">
                 <h3>E-waste management services can include:</h3>
 
                 <ul data-aos="fade-up">
@@ -70,7 +70,7 @@
                     customer's specific needs. We work closely with our customers to understand their unique
                     requirements and design customized solutions that maximize value and minimize waste.</p>
             </div>
-            <div class="col align-self-center">
+            <div class="col align-self-center mt-3">
                 <img src="../assets/img/ewaste1.png" class="img-fluid" alt="">
             </div>
         </div>

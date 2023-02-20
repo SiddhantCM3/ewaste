@@ -35,7 +35,7 @@
 If you generate oil waste, consider working with a professional waste management company that specializes in handling and disposing of hazardous waste. They can help you develop a comprehensive oil waste management plan that is tailored to your specific needs and ensures compliance with all relevant regulations.
                 </p>
             </div>
-            <div class="col align-self-center">
+            <div class="col-lg-6 col-md-12 mt-3 align-self-center">
                 <img src="../assets/img/oil.jpg" class="img-fluid" alt="">
             </div>
         </div>

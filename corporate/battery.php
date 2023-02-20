@@ -34,7 +34,7 @@
                     strive to ensure a pollution-free and sustainable future.
                 </p>
             </div>
-            <div class="col align-self-center">
+            <div class="col-lg-6 col-md-12 mt-3 align-self-center">
                 <img src="../assets/img/battery.png" class="img-fluid" alt="">
             </div>
         </div>

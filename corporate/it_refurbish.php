@@ -16,7 +16,7 @@
 
         <div class="row" data-aos="fade-up">
 
-            <div class="col align-self-center pt-4">
+            <div class="col-lg-6 col-md-12 align-self-center pt-4">
                 <p data-aos="fade-up">At E-Waste Mart, we take pride in our expertise in the area of e-waste
                     refurbishment. As an environmentally conscious organization, we believe in the importance of reusing
                     electronics, especially in the case of computer refurbishment. Our team of skilled and trained
@@ -43,7 +43,7 @@
 
                 </p>
             </div>
-            <div class="col align-self-center">
+            <div class="col align-self-center mt-3">
                 <img src="../assets/img/it_ref.png" class="img-fluid" alt="">
             </div>
         </div>

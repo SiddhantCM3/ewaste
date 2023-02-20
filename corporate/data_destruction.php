@@ -56,7 +56,7 @@
 
         <div class="row" data-aos="fade-up">
 
-            <div class="col align-self-center pt-4">
+            <div class="col-lg-6 col-md-12 align-self-center pt-4">
                 <h3>The steps of our e-waste disposal process are as follows:</h3>
 
                 <ul>
@@ -81,7 +81,7 @@
                     strive to ensure a pollution-free and sustainable future.
                 </p>
             </div>
-            <div class="col align-self-center">
+            <div class="col align-self-center mt-3">
                 <img src="../assets/img/corporate/data-destruction.jpeg" class="img-fluid" alt="">
             </div>
         </div>

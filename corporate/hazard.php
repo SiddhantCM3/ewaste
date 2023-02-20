@@ -16,14 +16,14 @@
 
         <div class="row" data-aos="fade-up">
 
-            <div class="col align-self-center pt-4">
+            <div class="col-lg-6 col-md-12 align-self-center pt-4">
                 <p data-aos="fade-up">Hazardous waste management is the collection, transport, treatment, and disposal of hazardous materials. This includes a wide range of materials, from chemicals and pesticides to batteries and medical waste. Proper management of hazardous waste is essential to protect human health and the environment.
 
 
 
                 </p>
             </div>
-            <div class="col align-self-center">
+            <div class="col align-self-center mt-3">
                 <img src="../assets/img/hazard.jpg" class="img-fluid" alt="">
             </div>
         </div>

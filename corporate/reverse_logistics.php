@@ -16,7 +16,7 @@
 
         <div class="row" data-aos="fade-up">
 
-            <div class="col align-self-center pt-4">
+            <div class="col-lg-6 col-md-12 align-self-center pt-4">
                 <p data-aos="fade-up"><img class="img-fluid" src="../assets/img/icons/tick.png" style="height: 2vh">
                     E-WASTE MART specializes in managing the return and disposal of products and materials for
                     a variety of industries, including consumer goods, industrial equipment, and hazardous waste.
